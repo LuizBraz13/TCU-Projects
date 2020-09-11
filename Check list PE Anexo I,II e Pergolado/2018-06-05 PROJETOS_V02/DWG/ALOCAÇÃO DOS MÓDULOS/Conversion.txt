@@ -1,0 +1,16 @@
+Conversion Report:
+Created by DWG TrueView DWG Convert segunda-feira, 22 de outubro de 2018, 10:02.
+
+Conversion Summary
+------------------
+Conversion File Format:  AutoCAD 2010/LT 2010 Drawing Format
+Conversion package type: In-place (overwrite files)
+Converted DWG files:     1
+Recovered DWG files:     0
+Conversion errors:       0
+
+
+Converted Files
+---------------
+Root Drawings:
+	\\sarq_prod\Unidades\Senge\SESPE\Instalações elétricas\01-PROJETOS\01-BRASÍLIA\Apartamento 316\Instalações elétricas\VIL-ELE-MATRIZ.dwg
